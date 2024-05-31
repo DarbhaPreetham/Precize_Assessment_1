@@ -1,7 +1,5 @@
 # Precize_Assessment_1
 
-# Precize_Assessment_1
-
 1. Set Up the Project Structure:
 
     - Create a directory for the project.
